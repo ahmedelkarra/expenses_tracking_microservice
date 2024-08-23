@@ -1,4 +1,4 @@
-# To Do App Microservice
+# Expenses Microservice
 
 This is an Express.js , Django and React + Vite project.
 
